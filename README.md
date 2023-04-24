@@ -23,7 +23,7 @@ link
 import
 
 ```
-@import url('https://cdn.jsdelivr.net/gh/fonts-archive/HSBombaram/HSBombaram2.0.css');
+@import url('https://cdn.jsdelivr.net/gh/fonts-archive/HSBombaram2.0/HSBombaram2.0.css');
 ```
 
 &nbsp;
@@ -36,9 +36,9 @@ font-face
     font-weight: normal;
     font-style: normal;
     font-display: swap;
-    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/HSBombaram/HSBombaram2.0.woff2') format('woff2'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/HSBombaram/HSBombaram2.0.woff') format('woff'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/HSBombaram/HSBombaram2.0.otf') format('opentype'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/HSBombaram/HSBombaram2.0.ttf') format('truetype');
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/HSBombaram2.0/HSBombaram2.0.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/HSBombaram2.0/HSBombaram2.0.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/HSBombaram2.0/HSBombaram2.0.otf') format('opentype'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/HSBombaram2.0/HSBombaram2.0.ttf') format('truetype');
 }
 ```
